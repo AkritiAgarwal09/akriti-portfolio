@@ -6,6 +6,8 @@ I work at the intersection of **modeling, systems, and scale** — building inte
 
 Currently pursuing an **M.S. in Data Science at Columbia University**. Previously at **JPMorgan Chase**, **Intel**, and **T-Mobile**, working on agentic AI, financial modeling, clinical NLP, and ML infrastructure.
 
+**Live site:** [akritiagarwal09.github.io/akriti-portfolio](https://akritiagarwal09.github.io/akriti-portfolio/)
+
 📍 New York, NY · Open to relocate  
 📫 [aa5807@columbia.edu](mailto:aa5807@columbia.edu) · [LinkedIn](https://linkedin.com/in/akag09) · [GitHub](https://github.com/AkritiAgarwal09)
 
@@ -17,8 +19,8 @@ Currently pursuing an **M.S. in Data Science at Columbia University**. Previousl
 
 ```bash
 # Clone the repo
-git clone https://github.com/AkritiAgarwal09/akriti-portfolio-interactive.git
-cd akriti-portfolio-interactive
+git clone https://github.com/AkritiAgarwal09/akriti-portfolio.git
+cd akriti-portfolio
 
 # Install dependencies
 npm install
@@ -37,6 +39,8 @@ npm run preview
 ```
 
 The built site is output to the `dist/` folder.
+
+Pushes to `main` deploy automatically to [GitHub Pages](https://akritiagarwal09.github.io/akriti-portfolio/).
 
 ---
 

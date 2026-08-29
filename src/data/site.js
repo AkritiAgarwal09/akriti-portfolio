@@ -1,5 +1,5 @@
 /** Site-wide assets and metadata */
 export const portrait = {
-  src: '/akriti-portrait.png',
+  src: `${import.meta.env.BASE_URL}akriti-portrait.png`,
   alt: 'Akriti Agarwal',
 }
